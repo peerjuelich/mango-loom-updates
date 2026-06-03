@@ -1,6 +1,6 @@
 {
-  "version": "1.4",
-  "build": 5,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.4-b5/Mango-Loom.dmg",
-  "notes": "4K · 60 fps recording, keyframe editor & re-editable projects"
+  "version": "1.5",
+  "build": 6,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.5-b6/Mango-Loom.dmg",
+  "notes": "Mic-silence warning: the bubble ring turns yellow when the microphone isn't picking up sound"
 }
