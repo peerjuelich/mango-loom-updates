@@ -1,6 +1,6 @@
 {
-  "version": "1.5",
-  "build": 6,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.5-b6/Mango-Loom.dmg",
-  "notes": "Mic-silence warning: the bubble ring turns yellow when the microphone isn't picking up sound"
+  "version": "1.6",
+  "build": 7,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.6-b7/Mango-Loom.dmg",
+  "notes": "Meeting mode (screen + system audio + mic, no camera bubble) and mic-reconnect recovery"
 }
