@@ -1,6 +1,6 @@
 {
-  "version": "1.6",
-  "build": 7,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.6-b7/Mango-Loom.dmg",
-  "notes": "Meeting mode (screen + system audio + mic, no camera bubble) and mic-reconnect recovery"
+  "version": "1.7",
+  "build": 8,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.7-b8/Mango-Loom.dmg",
+  "notes": "Toggle to turn the mic-silence warning on/off"
 }
