@@ -1,6 +1,6 @@
 {
-  "version": "1.8",
-  "build": 9,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.8-b9/Mango-Loom.dmg",
-  "notes": "Fix: recordings could fail to save at 4K (file-finalize race); skip empty segments; recording color (sRGB) to match the preview"
+  "version": "1.9",
+  "build": 10,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.9-b10/Mango-Loom.dmg",
+  "notes": "Aufnahme bricht nicht mehr ab: Display-Schlaf wird während der Aufnahme verhindert, und wenn das System den Stream doch stoppt, läuft die Aufnahme automatisch weiter — sonst wird das bereits Aufgenommene gerettet und gespeichert."
 }
