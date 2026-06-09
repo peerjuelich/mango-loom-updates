@@ -1,6 +1,6 @@
 {
-  "version": "1.7",
-  "build": 8,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.7-b8/Mango-Loom.dmg",
-  "notes": "Toggle to turn the mic-silence warning on/off"
+  "version": "1.8",
+  "build": 9,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.8-b9/Mango-Loom.dmg",
+  "notes": "Fix: recordings could fail to save at 4K (file-finalize race); skip empty segments; recording color (sRGB) to match the preview"
 }
