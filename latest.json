@@ -1,6 +1,6 @@
 {
-  "version": "1.12",
-  "build": 13,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.12-b13/Mango-Loom.dmg",
-  "notes": "Beliebige Dateien transkribieren: Zieh ein Video oder eine Audiodatei einfach ins Recordings-Fenster — oder wähle sie über 'Transcribe File' bzw. das Menü aus. Die Transkription läuft weiterhin lokal & kostenlos auf deinem Mac und gibt dir sauber nur den Text zurück (zum Kopieren); Speichern als .txt/.srt nur auf Wunsch."
+  "version": "1.13",
+  "build": 14,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.13-b14/Mango-Loom.dmg",
+  "notes": "Aufnahme bricht nicht mehr ab, wenn Audiogeräte wechseln: Das Mikrofon (z. B. dein DJI) wird jetzt unabhängig vom Bildschirm-Stream aufgenommen und am Ende sauber ins Video gemischt. So kann ein auftauchendes/verschwindendes iPhone-Mikro (Continuity) die laufende Aufnahme nicht mehr stoppen. Die Mikro-Warnung bezieht sich jetzt genau auf dein gewähltes Mikrofon."
 }
