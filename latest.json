@@ -1,6 +1,6 @@
 {
-  "version": "1.13",
-  "build": 14,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.13-b14/Mango-Loom.dmg",
-  "notes": "Aufnahme bricht nicht mehr ab, wenn Audiogeräte wechseln: Das Mikrofon (z. B. dein DJI) wird jetzt unabhängig vom Bildschirm-Stream aufgenommen und am Ende sauber ins Video gemischt. So kann ein auftauchendes/verschwindendes iPhone-Mikro (Continuity) die laufende Aufnahme nicht mehr stoppen. Die Mikro-Warnung bezieht sich jetzt genau auf dein gewähltes Mikrofon."
+  "version": "1.14",
+  "build": 15,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.14-b15/Mango-Loom.dmg",
+  "notes": "Kamera-Erkennung verbessert: Wenn die Kamera-Freigabe fehlt, erklärt Mango Loom das jetzt direkt (statt stumm 'No camera') und bietet einen Button zu den Systemeinstellungen — wichtig in einem neuen Benutzerkonto, wo macOS Berechtigungen pro Konto vergibt und sonst auch die iPhone-/Continuity-Kamera ausblendet. Außerdem: 'Rescan'-Knopf und automatisches Neu-Scannen beim Öffnen der Einstellungen, damit ein später verbundenes iPhone sofort auftaucht."
 }
