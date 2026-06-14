@@ -1,6 +1,6 @@
 {
-  "version": "1.14",
-  "build": 15,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.14-b15/Mango-Loom.dmg",
-  "notes": "Kamera-Erkennung verbessert: Wenn die Kamera-Freigabe fehlt, erklärt Mango Loom das jetzt direkt (statt stumm 'No camera') und bietet einen Button zu den Systemeinstellungen — wichtig in einem neuen Benutzerkonto, wo macOS Berechtigungen pro Konto vergibt und sonst auch die iPhone-/Continuity-Kamera ausblendet. Außerdem: 'Rescan'-Knopf und automatisches Neu-Scannen beim Öffnen der Einstellungen, damit ein später verbundenes iPhone sofort auftaucht."
+  "version": "1.15",
+  "build": 17,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.15-b17/Mango-Loom.dmg",
+  "notes": "App ist jetzt von Apple notarisiert und mit Developer ID signiert — Downloads öffnen überall sofort, ohne Gatekeeper-Warnung und ohne langes Warten. (Hinweis: Durch die neue Signatur fragt macOS einmalig erneut nach Bildschirmaufnahme/Kamera/Mikrofon.)"
 }
