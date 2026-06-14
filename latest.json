@@ -1,6 +1,6 @@
 {
-  "version": "1.10",
-  "build": 11,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.10-b11/Mango-Loom.dmg",
-  "notes": "Abbrüche bei voller Festplatte behoben: Mango Loom prüft jetzt vor der Aufnahme den freien Speicher, warnt bei zu wenig Platz und speichert die Aufnahme automatisch sauber, bevor die Platte volläuft — statt mittendrin abzuschneiden."
+  "version": "1.11",
+  "build": 12,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.11-b12/Mango-Loom.dmg",
+  "notes": "Neu: Aufnahmen transkribieren — komplett lokal auf deinem Mac (Apple Speech, on-device), ohne Internet und kostenlos. In der Recordings-Bibliothek oder direkt nach einer Aufnahme auf 'Transcribe' tippen; erzeugt Text zum Kopieren plus eine .txt- und eine .srt-Untertiteldatei neben dem Video."
 }
