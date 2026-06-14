@@ -1,6 +1,6 @@
 {
-  "version": "1.9",
-  "build": 10,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.9-b10/Mango-Loom.dmg",
-  "notes": "Aufnahme bricht nicht mehr ab: Display-Schlaf wird während der Aufnahme verhindert, und wenn das System den Stream doch stoppt, läuft die Aufnahme automatisch weiter — sonst wird das bereits Aufgenommene gerettet und gespeichert."
+  "version": "1.10",
+  "build": 11,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.10-b11/Mango-Loom.dmg",
+  "notes": "Abbrüche bei voller Festplatte behoben: Mango Loom prüft jetzt vor der Aufnahme den freien Speicher, warnt bei zu wenig Platz und speichert die Aufnahme automatisch sauber, bevor die Platte volläuft — statt mittendrin abzuschneiden."
 }
