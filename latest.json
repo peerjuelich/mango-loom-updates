@@ -1,6 +1,6 @@
 {
-  "version": "1.11",
-  "build": 12,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.11-b12/Mango-Loom.dmg",
-  "notes": "Neu: Aufnahmen transkribieren — komplett lokal auf deinem Mac (Apple Speech, on-device), ohne Internet und kostenlos. In der Recordings-Bibliothek oder direkt nach einer Aufnahme auf 'Transcribe' tippen; erzeugt Text zum Kopieren plus eine .txt- und eine .srt-Untertiteldatei neben dem Video."
+  "version": "1.12",
+  "build": 13,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.12-b13/Mango-Loom.dmg",
+  "notes": "Beliebige Dateien transkribieren: Zieh ein Video oder eine Audiodatei einfach ins Recordings-Fenster — oder wähle sie über 'Transcribe File' bzw. das Menü aus. Die Transkription läuft weiterhin lokal & kostenlos auf deinem Mac und gibt dir sauber nur den Text zurück (zum Kopieren); Speichern als .txt/.srt nur auf Wunsch."
 }
