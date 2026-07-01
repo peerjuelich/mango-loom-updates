@@ -1,6 +1,6 @@
 {
-  "version": "1.15",
-  "build": 17,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.15-b17/Mango-Loom.dmg",
-  "notes": "App ist jetzt von Apple notarisiert und mit Developer ID signiert — Downloads öffnen überall sofort, ohne Gatekeeper-Warnung und ohne langes Warten. (Hinweis: Durch die neue Signatur fragt macOS einmalig erneut nach Bildschirmaufnahme/Kamera/Mikrofon.)"
+  "version": "1.16",
+  "build": 18,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.16-b18/Mango-Loom.dmg",
+  "notes": "Transkription: gesprochene Sprache jetzt wählbar (Deutsch, Englisch u. a.) mit „Neu transkribieren" — behebt vermischte, unbrauchbare Transkripte. Läuft vollständig offline auf deinem Mac. Außerdem: Aufnahmen gehen bei vollem Speicher nicht mehr verloren — Clips werden automatisch in der Mediathek gesichert."
 }
