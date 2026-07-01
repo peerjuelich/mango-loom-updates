@@ -1,6 +1,6 @@
 {
-  "version": "1.16",
-  "build": 18,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.16-b18/Mango-Loom.dmg",
-  "notes": "Transkription: gesprochene Sprache jetzt wählbar (Deutsch, Englisch u. a.) mit „Neu transkribieren" — behebt vermischte, unbrauchbare Transkripte. Läuft vollständig offline auf deinem Mac. Außerdem: Aufnahmen gehen bei vollem Speicher nicht mehr verloren — Clips werden automatisch in der Mediathek gesichert."
+  "version": "1.17",
+  "build": 19,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b19/Mango-Loom.dmg",
+  "notes": "Große Neuerung: Mango Loom ist jetzt eine echte App mit Fenster und Seitenleiste (Aufnehmen · Mediathek · Transkribieren · Projekte · Einstellungen) statt Menüleisten-Add-on. Transkription funktioniert jetzt mit beliebigen Videos (auch Stereo/48 kHz und externe Dateien) und die gesprochene Sprache ist wählbar. Der Kamera-Kreis erscheint nur noch während der Aufnahme. Aufnahmen gehen bei vollem Speicher nicht mehr verloren."
 }
