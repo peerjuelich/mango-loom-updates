@@ -1,6 +1,6 @@
 {
   "version": "1.17",
-  "build": 19,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b19/Mango-Loom.dmg",
-  "notes": "Große Neuerung: Mango Loom ist jetzt eine echte App mit Fenster und Seitenleiste (Aufnehmen · Mediathek · Transkribieren · Projekte · Einstellungen) statt Menüleisten-Add-on. Transkription funktioniert jetzt mit beliebigen Videos (auch Stereo/48 kHz und externe Dateien) und die gesprochene Sprache ist wählbar. Der Kamera-Kreis erscheint nur noch während der Aufnahme. Aufnahmen gehen bei vollem Speicher nicht mehr verloren."
+  "build": 20,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b20/Mango-Loom.dmg",
+  "notes": "Behebt das Transkribieren von importierten/externen Videos (z. B. 48 kHz Stereo) — funktioniert jetzt zuverlässig mit beliebigen Dateien. Mango Loom ist außerdem jetzt eine echte App mit Fenster und Seitenleiste (Aufnehmen · Mediathek · Transkribieren · Projekte · Einstellungen), die gesprochene Sprache ist wählbar, der Kamera-Kreis erscheint nur während der Aufnahme, und Aufnahmen gehen bei vollem Speicher nicht mehr verloren."
 }
