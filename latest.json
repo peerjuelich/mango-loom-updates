@@ -1,6 +1,6 @@
 {
   "version": "1.17",
-  "build": 21,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b21/Mango-Loom.dmg",
-  "notes": "Neu: Beim Start erscheint zuerst die Kamera zum Positionieren — mit ● Aufnahme-Knopf direkt an der Kamera; beim Stoppen/Pausieren springt sie nicht mehr in die Ecke zurück. Außerdem: echte App mit Seitenleiste (Aufnehmen · Mediathek · Transkribieren · Projekte · Einstellungen), Transkription für beliebige Videos (auch Stereo/48 kHz, externe Dateien) mit wählbarer Sprache, Kamera nur während der Aufnahme sichtbar, und Aufnahmen gehen bei vollem Speicher nicht mehr verloren."
+  "build": 22,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b22/Mango-Loom.dmg",
+  "notes": "Neu: ⋯-Menü direkt an der Kamera — Spiegeln, Kamera wechseln, Größe und Form ändern, ohne die App zu öffnen (Größe/Form ändern sich an Ort und Stelle). Beim Start erscheint zuerst die Kamera zum Positionieren mit ● Aufnahme-Knopf; beim Stoppen/Pausieren springt sie nicht mehr in die Ecke. Plus: echte App mit Seitenleiste, Transkription für beliebige Videos mit wählbarer Sprache, und Aufnahmen gehen bei vollem Speicher nicht mehr verloren."
 }
