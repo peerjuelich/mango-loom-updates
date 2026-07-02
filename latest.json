@@ -1,6 +1,6 @@
 {
   "version": "1.17",
-  "build": 23,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b23/Mango-Loom.dmg",
-  "notes": "Erweitertes ⋯-Menü direkt an der Kamera: Aufnahmebereich (Vollbild / Bereich wählen), Notizen-Overlay ein-/ausblenden, System-Audio, Spiegeln, Kamera wechseln, Größe und Form — alles ohne die App zu öffnen. Plus alle Neuerungen von 1.17 (echte App mit Seitenleiste, Kamera-Positionierung vor der Aufnahme, Transkription für beliebige Videos mit wählbarer Sprache)."
+  "build": 24,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b24/Mango-Loom.dmg",
+  "notes": "Schöneres Transkript-Ergebnis: Lesekarte mit angenehmer Typografie und Wortanzahl/Lesezeit; Download jetzt nur noch als .txt. Außerdem: die Bedienelemente an der Kamera (Aufnahme/Pause/Stopp und ⋯-Menü) funktionieren jetzt auch über Vollbild-Fenstern anderer Apps. Plus alle Neuerungen von 1.17 (echte App mit Seitenleiste, Kamera-Positionierung vor der Aufnahme, Transkription für beliebige Videos mit wählbarer Sprache)."
 }
