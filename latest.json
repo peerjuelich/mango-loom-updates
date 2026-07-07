@@ -1,6 +1,6 @@
 {
   "version": "1.17",
-  "build": 28,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b28/Mango-Loom.dmg",
-  "notes": "'Log senden' schickt das Protokoll jetzt direkt an den Support-Kanal — kein Link, nichts zum Kopieren oder Anhängen. Der Nutzer klickt nur auf 'Log senden', der Rest passiert automatisch und ich kann das eingereichte Log direkt einsehen. 'Datei speichern' bleibt als Offline-Alternative erhalten."
+  "build": 29,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b29/Mango-Loom.dmg",
+  "notes": "Datensicherheit: Aufnahmen werden jetzt durchgehend sicher in der Mediathek gespeichert (nicht mehr im temporären Ordner, der beim Neustart geleert wird). Wenn die Festplatte zu voll ist, um alle Teile zu EINER Datei zusammenzufügen, gehen sie NICHT mehr verloren — sie werden als abspielbare Clips in der Mediathek gespeichert. Nach Absturz/Neustart werden unfertige Aufnahmen beim nächsten Öffnen automatisch gerettet. Kein unnötiges Hochskalieren kleiner Bildschirme auf 4K mehr (deutlich kleinere Dateien, weniger Speicherdruck — Speicherdruck war die Ursache der Abstürze). Aufnahme stoppt früher bei knappem Speicher."
 }
