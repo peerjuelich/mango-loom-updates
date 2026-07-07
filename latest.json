@@ -1,6 +1,6 @@
 {
   "version": "1.17",
-  "build": 29,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b29/Mango-Loom.dmg",
-  "notes": "Datensicherheit: Aufnahmen werden jetzt durchgehend sicher in der Mediathek gespeichert (nicht mehr im temporären Ordner, der beim Neustart geleert wird). Wenn die Festplatte zu voll ist, um alle Teile zu EINER Datei zusammenzufügen, gehen sie NICHT mehr verloren — sie werden als abspielbare Clips in der Mediathek gespeichert. Nach Absturz/Neustart werden unfertige Aufnahmen beim nächsten Öffnen automatisch gerettet. Kein unnötiges Hochskalieren kleiner Bildschirme auf 4K mehr (deutlich kleinere Dateien, weniger Speicherdruck — Speicherdruck war die Ursache der Abstürze). Aufnahme stoppt früher bei knappem Speicher."
+  "build": 30,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b30/Mango-Loom.dmg",
+  "notes": "Das ⋯-Menü der Kamera-Blase wird jetzt korrekt ÜBER der Blase angezeigt und funktioniert auch im Vollbildmodus (vorher lag es hinter der Blase bzw. öffnete im Vollbild gar nicht). Eigenes Menü mit Untermenüs für Kamera/Größe/Form/Aufnahmebereich; Klick außerhalb schließt es."
 }
