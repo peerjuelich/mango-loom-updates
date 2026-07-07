@@ -1,6 +1,6 @@
 {
   "version": "1.17",
-  "build": 30,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b30/Mango-Loom.dmg",
-  "notes": "Das ⋯-Menü der Kamera-Blase wird jetzt korrekt ÜBER der Blase angezeigt und funktioniert auch im Vollbildmodus (vorher lag es hinter der Blase bzw. öffnete im Vollbild gar nicht). Eigenes Menü mit Untermenüs für Kamera/Größe/Form/Aufnahmebereich; Klick außerhalb schließt es."
+  "build": 31,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b31/Mango-Loom.dmg",
+  "notes": "Gespeicherte Aufnahme wird jetzt nach dem Speichern überprüft (spielbares Video + gültige Länge werden im Log protokolliert). Ist die zusammengefügte/gemuxte Datei beschädigt, werden stattdessen die unbeschädigten Rohclips behalten, statt eine kaputte Datei auszugeben."
 }
