@@ -1,6 +1,6 @@
 {
   "version": "1.17",
-  "build": 31,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b31/Mango-Loom.dmg",
-  "notes": "Gespeicherte Aufnahme wird jetzt nach dem Speichern überprüft (spielbares Video + gültige Länge werden im Log protokolliert). Ist die zusammengefügte/gemuxte Datei beschädigt, werden stattdessen die unbeschädigten Rohclips behalten, statt eine kaputte Datei auszugeben."
+  "build": 32,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b32/Mango-Loom.dmg",
+  "notes": "Zuverlässigkeit: Das Mikrofon wird jetzt direkt in die Bildschirmaufnahme geschrieben — eine Aufnahme wird als EINE vollständige Datei vom System gespeichert (mit Ton und gültigem Index) und beim Speichern nur noch verschoben. Damit entfällt der fehleranfällige Zusammenfüge-/Kopier-Schritt beim Speichern, der auf fast voller Festplatte eine unlesbare Datei (ohne moov-Index) erzeugt hat. Zusätzlich: konservativere Freispeicher-Prüfung und Überprüfung der gespeicherten Datei."
 }
