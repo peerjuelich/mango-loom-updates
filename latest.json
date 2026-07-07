@@ -1,6 +1,6 @@
 {
   "version": "1.17",
-  "build": 25,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b25/Mango-Loom.dmg",
-  "notes": "Kamera wird jetzt freigegeben, wenn nicht aufgenommen wird: Eine geöffnete (aber nicht aufnehmende) App blockiert das iPhone / die Continuity-Kamera nicht mehr — bei zwei Benutzern kann der andere die Kamera nutzen. Die Kamera läuft nur noch während des Positionierens und der Aufnahme und wird bei einem Benutzerwechsel freigegeben."
+  "build": 26,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b26/Mango-Loom.dmg",
+  "notes": "Neu: Diagnose-Bereich mit Live-Protokoll und 'Log senden' — speichert das vollständige Protokoll in Downloads; bei Aufnahmeproblemen bitte dieses Log senden. Neu: Aufnahme-Wächter warnt sofort, wenn aufgenommen wird, aber keine Bilder ankommen (z. B. fehlende Bildschirmaufnahme-Berechtigung) — die Kamera-Blase wird dann orange statt rot. Neu: Presenter-Modus — Vollbild-Kamera wie FaceTime, unsichtbarer Teleprompter für dein Skript, Umschalten zwischen Kamera und Bildschirm. Behoben: Aufnahme in einer Vollbild-App stoppen springt nicht mehr zum Schreibtisch. Jede Aktion wird jetzt protokolliert."
 }
