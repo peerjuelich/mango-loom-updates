@@ -1,6 +1,6 @@
 {
   "version": "1.17",
-  "build": 26,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b26/Mango-Loom.dmg",
-  "notes": "Neu: Diagnose-Bereich mit Live-Protokoll und 'Log senden' — speichert das vollständige Protokoll in Downloads; bei Aufnahmeproblemen bitte dieses Log senden. Neu: Aufnahme-Wächter warnt sofort, wenn aufgenommen wird, aber keine Bilder ankommen (z. B. fehlende Bildschirmaufnahme-Berechtigung) — die Kamera-Blase wird dann orange statt rot. Neu: Presenter-Modus — Vollbild-Kamera wie FaceTime, unsichtbarer Teleprompter für dein Skript, Umschalten zwischen Kamera und Bildschirm. Behoben: Aufnahme in einer Vollbild-App stoppen springt nicht mehr zum Schreibtisch. Jede Aktion wird jetzt protokolliert."
+  "build": 27,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b27/Mango-Loom.dmg",
+  "notes": "Log senden erzeugt jetzt einen Online-Link zum Teilen (kein Datei-Anhang nötig) — Link wird automatisch kopiert. Die Aufnahme-Steuerung (Pause/Stopp) ist während der Aufnahme jetzt IMMER an der Kamera-Blase sichtbar — auch im Vollbild — statt nur beim Hovern; so lässt sich die Aufnahme immer direkt an der Blase stoppen. Kein Popup mehr am Ende der Aufnahme: die fertige Aufnahme erscheint einfach in der Bibliothek. Klarere Meldung, wenn die Bildschirmaufnahme-Berechtigung fehlt."
 }
