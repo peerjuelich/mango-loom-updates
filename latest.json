@@ -1,6 +1,6 @@
 {
   "version": "1.17",
-  "build": 34,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b34/Mango-Loom.dmg",
-  "notes": "Camera bubble controls actually fixed: the control pill (menu / pause / retake / stop) now sits one window layer ABOVE the bubble, so it can no longer be buried behind the camera circle when recording starts — that z-order race is why the buttons 'disappeared'. Clicking the bubble now always reveals the controls (this had been silently unwired for several builds). Retake now requires a confirming second tap — a stray tap used to silently delete your last clip and restart recording. Bigger buttons with strict hit zones so Stop can't be mistaken for Retake. Every control press is logged by name, so problems are diagnosable from the log. Recordings now save directly to your Downloads folder; the Library lists both Downloads and previously saved recordings."
+  "build": 35,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b35/Mango-Loom.dmg",
+  "notes": "Trust release — verified by an automated in-app self-test, not claims: the control pill now provably sits ABOVE the camera bubble (runtime-verified window levels), so controls can no longer vanish behind your face while recording. New flight-recorder logging: every button press, menu pick, window show/hide with coordinates, a heartbeat every 30 s proving bytes are being written mid-recording, and session start/end markers. Built-in self-test mode (--selftest) that arms, records, stops, and validates the saved file end to end. Recordings save to Downloads. Clear guidance when macOS revokes the Screen Recording permission after an update."
 }
