@@ -1,6 +1,6 @@
 {
   "version": "1.17",
-  "build": 35,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b35/Mango-Loom.dmg",
-  "notes": "Trust release — verified by an automated in-app self-test, not claims: the control pill now provably sits ABOVE the camera bubble (runtime-verified window levels), so controls can no longer vanish behind your face while recording. New flight-recorder logging: every button press, menu pick, window show/hide with coordinates, a heartbeat every 30 s proving bytes are being written mid-recording, and session start/end markers. Built-in self-test mode (--selftest) that arms, records, stops, and validates the saved file end to end. Recordings save to Downloads. Clear guidance when macOS revokes the Screen Recording permission after an update."
+  "build": 36,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b36/Mango-Loom.dmg",
+  "notes": "Microphones now auto-connect: plug in a wired USB mic and Mango Loom switches to it automatically, preferring a DJI Mic Mini if one is connected. Wireless/Bluetooth mics are never auto-selected, so you keep full manual control over those. Error messages are now plain English instead of cryptic system codes: a full disk during recording, export, or transcription now says so clearly and tells you what to do. Transcription gained a new Names and Jargon field next to the existing corrections list, so proper nouns, brands, and jargon it keeps mishearing get recognized correctly the first time instead of coming out garbled differently on every run."
 }
