@@ -1,6 +1,6 @@
 {
   "version": "1.17",
-  "build": 36,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b36/Mango-Loom.dmg",
-  "notes": "Microphones now auto-connect: plug in a wired USB mic and Mango Loom switches to it automatically, preferring a DJI Mic Mini if one is connected. Wireless/Bluetooth mics are never auto-selected, so you keep full manual control over those. Error messages are now plain English instead of cryptic system codes: a full disk during recording, export, or transcription now says so clearly and tells you what to do. Transcription gained a new Names and Jargon field next to the existing corrections list, so proper nouns, brands, and jargon it keeps mishearing get recognized correctly the first time instead of coming out garbled differently on every run."
+  "build": 37,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b37/Mango-Loom.dmg",
+  "notes": "Fixed a transcription-quality bug: long or already-compressed recordings were silently re-encoded a second time before transcription, which could degrade accuracy on tougher audio (accents, background noise, long calls). Recordings are now passed through untouched instead, giving the speech recognizer the best possible copy of your audio."
 }
