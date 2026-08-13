@@ -1,6 +1,6 @@
 {
   "version": "1.17",
-  "build": 38,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b38/Mango-Loom.dmg",
-  "notes": "Transcription now supports .ogg audio files."
+  "build": 39,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b39/Mango-Loom.dmg",
+  "notes": "Fixed transcription failing on real-world .ogg/Opus voice notes (e.g. WhatsApp audio)."
 }
