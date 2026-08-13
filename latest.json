@@ -1,6 +1,6 @@
 {
   "version": "1.17",
-  "build": 37,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b37/Mango-Loom.dmg",
-  "notes": "Fixed a transcription-quality bug: long or already-compressed recordings were silently re-encoded a second time before transcription, which could degrade accuracy on tougher audio (accents, background noise, long calls). Recordings are now passed through untouched instead, giving the speech recognizer the best possible copy of your audio."
+  "build": 38,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b38/Mango-Loom.dmg",
+  "notes": "Transcription now supports .ogg audio files."
 }
