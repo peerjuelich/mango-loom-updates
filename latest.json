@@ -1,6 +1,6 @@
 {
   "version": "1.17",
-  "build": 39,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b39/Mango-Loom.dmg",
-  "notes": "Fixed transcription failing on real-world .ogg/Opus voice notes (e.g. WhatsApp audio)."
+  "build": 40,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b40/Mango-Loom.dmg",
+  "notes": "Fix: recording could flash the camera widget open then closed when disk space was low; now shows the low-disk message without disturbing the camera."
 }
