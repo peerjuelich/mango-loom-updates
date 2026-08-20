@@ -1,6 +1,6 @@
 {
   "version": "1.17",
-  "build": 40,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b40/Mango-Loom.dmg",
-  "notes": "Fix: recording could flash the camera widget open then closed when disk space was low; now shows the low-disk message without disturbing the camera."
+  "build": 41,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b41/Mango-Loom.dmg",
+  "notes": "Diagnostics: log disk/camera/mic/Wi-Fi/Bluetooth/screen/frontmost-app conditions when arming, recording, or opening the area selector, to help diagnose device-state issues. Also logs area-selector open/select/cancel outcomes directly (helps track down cases where selecting an area over a fullscreen app didn't visibly work)."
 }
