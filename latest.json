@@ -1,6 +1,6 @@
 {
   "version": "1.17",
-  "build": 41,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b41/Mango-Loom.dmg",
-  "notes": "Diagnostics: log disk/camera/mic/Wi-Fi/Bluetooth/screen/frontmost-app conditions when arming, recording, or opening the area selector, to help diagnose device-state issues. Also logs area-selector open/select/cancel outcomes directly (helps track down cases where selecting an area over a fullscreen app didn't visibly work)."
+  "build": 42,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b42/Mango-Loom.dmg",
+  "notes": "Critical fix: build 41's new diagnostic logging called an unlinked-permission Bluetooth API, which made macOS hard-kill the app the instant a recording was started. Removed the Bluetooth check; disk/screen/camera/mic/Wi-Fi/frontmost-app diagnostics are unaffected."
 }
