@@ -1,6 +1,6 @@
 {
   "version": "1.17",
-  "build": 42,
-  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b42/Mango-Loom.dmg",
-  "notes": "Critical fix: build 41's new diagnostic logging called an unlinked-permission Bluetooth API, which made macOS hard-kill the app the instant a recording was started. Removed the Bluetooth check; disk/screen/camera/mic/Wi-Fi/frontmost-app diagnostics are unaffected."
+  "build": 43,
+  "url": "https://github.com/peerjuelich/mango-loom-updates/releases/download/v1.17-b43/Mango-Loom.dmg",
+  "notes": "Lower the disk-space guard from 4GB/3GB down to 200MB: block start and auto-stop-and-save only when free space actually gets tight, instead of reserving multiple GB headroom that short recordings never needed."
 }
